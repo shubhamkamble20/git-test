@@ -1,4 +1,4 @@
-git init -initilize current folder in git repository
+git git init -initilize current folder in git repository
 
 git status - current git status
 
